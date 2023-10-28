@@ -1,4 +1,4 @@
-public class POJO {
+public class Pojo {
 
     public static class Cat {
         private String name;
